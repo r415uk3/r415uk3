@@ -13,7 +13,7 @@
 ### — about
 
 Software engineer in fitness-tech: backend, web and mobile in production.
-On the side I build native macOS tools. <a href="https://github.com/r415uk3/Tether"><img src="assets/now-tether.svg" height="22" align="absmiddle" alt="now: Tether"></a>
+On the side I build interesting apps, tools and projects. <a href="https://github.com/r415uk3/Tether"><img src="assets/now-tether.svg" height="22" align="absmiddle" alt="now: Tether"></a>
 
 ### — stack
 
