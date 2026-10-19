@@ -13,7 +13,7 @@
 ### — about
 
 Software engineer in fitness-tech: backend, web and mobile in production.
-On the side I build interesting apps, tools and projects. <img src="assets/now.svg" height="22" align="absmiddle" alt="now: Tether · sandyq">
+On the side I build interesting apps, tools and projects. <img src="assets/now.svg" height="22" align="absmiddle" alt="now: Tether · ATK Horizon · sandyq">
 
 ### — stack
 
