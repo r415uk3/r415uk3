@@ -35,8 +35,14 @@ On the side I build interesting apps, tools and projects. <img src="assets/now.s
     </td>
   </tr>
   <tr>
-    <td colspan="2">
-      <b>sandyq</b> <img src="assets/wip.svg" height="22" align="absmiddle" alt="wip"> <sub>— something new. coming soon.</sub>
+    <td width="50%" valign="top">
+      <a href="https://github.com/r415uk3/atk-horizon"><b>ATK Horizon</b></a><br>
+      <sub>Android app for ATK Horizon USB-C headphones: parametric EQ over USB HID, Liquid Glass UI.</sub><br>
+      <sub><code>kotlin</code> <code>jetpack-compose</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>sandyq</b> <img src="assets/wip.svg" height="22" align="absmiddle" alt="wip"><br>
+      <sub>— something new. coming soon.</sub>
     </td>
   </tr>
 </table>
